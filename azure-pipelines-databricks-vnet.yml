@@ -21,7 +21,7 @@ variables:
   - name: vmImageName
     value: 'ubuntu-latest'
   - name: azureServiceConnection
-    value: 'bloom-connect-vse'
+    value: 'sc_personal_connect'
   - name: resourceGroupName
     value: 'databricks-vnetinjection-idea'
   - name: location  
