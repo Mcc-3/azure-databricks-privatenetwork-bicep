@@ -49,7 +49,7 @@ param vmName string = 'w10-bicepvm1'
 
 param virtualNetworkNameParam string
 
-var storageAccountName = 'bootdiagsbicepvm2'
+var storageAccountName = 'bootdiagsbicepvm111'
 var nicName = 'myVMNicbicepvm1'
 var addressPrefix = '10.179.0.0/16'
 var subnetName = 'default'
